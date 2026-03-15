@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Ghulam Raza Ali
 
-<!--
-**ghulamrazaali5/ghulamrazaali5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Final Year Student  
+💻 Aspiring Android & Flutter Developer  
+📱 Passionate about Mobile App Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Science student who is passionate about learning programming and mobile app development.  
+Currently I am focusing on Flutter and Android development while improving my problem-solving and coding skills.
+
+My goal is to become a professional mobile app developer and build useful applications that can help people in real life.
+
+---
+
+## 🛠 Skills
+
+• Flutter  
+• Dart  
+• Android Development  
+• UI Design  
+• Git & GitHub  
+
+---
+
+## 📚 Currently Learning
+
+• Advanced Flutter Development  
+• API Integration  
+• App Architecture  
+• Clean UI Design  
+
+---
+
+## 🎯 Goals
+
+• Become a professional Android developer  
+• Build real-world mobile applications  
+• Contribute to open-source projects  
+• Work as a freelance mobile app developer  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/ghulamrazaali/
