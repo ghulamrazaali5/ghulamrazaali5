@@ -81,7 +81,7 @@ To grow as a professional Front-End Developer, work with global clients, and bui
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/ghulam-raza-ali-7656b5361
+- LinkedIn: https://www.linkedin.com/in/ghulamrazaali/
 - GitHub: Your GitHub Profile Link
 
 ---
